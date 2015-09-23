@@ -1,4 +1,4 @@
-Assembly-Language-Project
+# Assembly-Language-Project
 Decompiler which translates machine code into assembly language.
 
 How to run program:
