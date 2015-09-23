@@ -1,0 +1,28 @@
+Andy Thompson
+Confidential Evaluation
+
+1)I did the opcodes, most of the EA's, and some of the I/O.
+As a team, we didn't really divide up our tasks, we just 
+worked on the project as a whole together. There wasn't really
+much organization and we didn't really know what we were doing
+with our design and what not until there were like 3 weeks
+left in the quarter, so we really had to scramble.  I ended up
+doing a lot of the work, but it wasn't necessarily because I was
+working harder, but because I wrote a lot of the initial stuff.
+Once I had all the opcodes done, it was easy for me to quickly
+branch from those print statements into different EA modes, while
+the other 2 were just trying to understand how my code worked.
+
+It's easier to write more code when you're familiar with it,
+and maybe I didn't do a good enough job of that.  But all in 
+all we all pulled our own weight and I'm happy with the 
+contributions my teammates made.
+
+2)Yezen did most of the I/O, some of the EA's, and some other
+functions like converting strings to hex, and decimal to hex.
+Race did some of the I/O, a lot of the documentation and overall
+design, commenting, and some of the EA's.
+
+3) I contributed about 60% of the project.
+4) Yezen - 30%
+   Race - 10%
